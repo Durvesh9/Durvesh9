@@ -23,21 +23,19 @@ Here are some of the practical projects I've worked on:
 - **Amazon Sales Analysis** → EDA + trend insights
 - **Blinkit Performance Dashboard** → KPI-based Power BI analytics
 - **Spotify Data Analysis** → Trend and popularity analysis
-- **LLM Chatbot Project (CounselAI)** → Understanding LLM workflows
-
-_(You can find all repos below ↓)_
+- **LLM Chatbot Project (CounselAI)** → AI chatbot for counseling
+- **Please check other repos on Repo Page**
 
 ---
 
 ## 🛠 Tech I Use
-`Python` • `Pandas` • `NumPy` • `Power BI` • `MySQL` • `PostgreSQL` • `Matplotlib` • `Seaborn` • `Git`
+`Python` • `SQL` • `JavaScript` • `HTML` • `CSS` • `Power BI` • `Excel` • `Pandas` • `NumPy` • `MySQL` • `Jira`
 
 ---
 
 ## 📫 Let’s Connect
 - **Email:** durveshchaudhari103@gmail.com
 - **LinkedIn:** linkedin.com/in/durveshchaudhari
-- **Portfolio:** durvesh-portfolio.netlify.app
 
 ---
 
