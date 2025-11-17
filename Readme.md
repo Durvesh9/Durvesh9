@@ -1,6 +1,6 @@
 # Hi, I’m Durvesh 👋
 
-Welcome to my GitHub! I'm a **Data Analyst & AI/ML Engineering graduate** who enjoys working with data, building clean and meaningful dashboards, and developing practical Python-based solutions.
+AIML Graduate with a passion for Product Management — currently working with data to build meaningful, user-focused solutions.
 
 I focus on:
 - Turning raw data into structured insights
